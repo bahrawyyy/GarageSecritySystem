@@ -1,6 +1,6 @@
 # GarageSecritySystem
 This project is a garage security system based on AVR microcontroller using:  
-1- digital input/output  
+1- Digital input/output  
 2- Keypad  
 3- LCD display  
 3- Timer  
