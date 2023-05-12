@@ -1,10 +1,10 @@
 # GarageSecritySystem
 This project is a garage security system based on AVR microcontroller using:  
-1- Digital input/output  
-2- Keypad  
-3- LCD display  
-3- Timer  
-4- External interrupt  
+- Digital input/output  
+- Keypad  
+- LCD display  
+- Timer  
+- External interrupt  
   
   
 It's designed to provide a secure access to your garage. The user is required to enter a correct password using the keypad, which is set to "1234" by default. If the correct password is entered, a motor will run for 4 seconds, which is adjusted using timer0, allowing the user to open/close the garage door.  
