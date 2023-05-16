@@ -13,7 +13,9 @@ If the wrong password is entered three times in a row, an interrupt will occur a
   
 This garage security system is designed to provide a simple and effective way to secure your garage against unauthorized access. The code is well-documented and easy to understand, making it a great starting point for anyone who wants to learn about AVR programming and security systems. Feel free to use, modify, and contribute to this project to make it even better.  
 - Here is a video that desribes the project in details:  
-https://drive.google.com/file/d/1222VBWwMA9X94TvQcDfcOGw0jpPMyp41/view?usp=sharing  
+https://drive.google.com/file/d/1222VBWwMA9X94TvQcDfcOGw0jpPMyp41/view?usp=sharing    
+  
+- And here is a video of the simulation "Note that the simulation runs the interrupt on rising edge unlike hardware"
   
     
 https://github.com/bahrawyyy/GarageSecritySystem/assets/71684437/161dc2e0-dbd4-4961-9f7b-51f1edb56332
