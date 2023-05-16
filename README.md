@@ -11,4 +11,7 @@ It's designed to provide a secure access to your garage. The user is required to
 If the wrong password is entered three times in a row, an interrupt will occur at INT2 and a message "Blocked" will be displayed on the LCD screen. After that, the user will not be able to enter any passwords until the system is reset.  
   
   
-This garage security system is designed to provide a simple and effective way to secure your garage against unauthorized access. The code is well-documented and easy to understand, making it a great starting point for anyone who wants to learn about AVR programming and security systems. Feel free to use, modify, and contribute to this project to make it even better.
+This garage security system is designed to provide a simple and effective way to secure your garage against unauthorized access. The code is well-documented and easy to understand, making it a great starting point for anyone who wants to learn about AVR programming and security systems. Feel free to use, modify, and contribute to this project to make it even better.  
+  
+    
+https://github.com/bahrawyyy/GarageSecritySystem/assets/71684437/161dc2e0-dbd4-4961-9f7b-51f1edb56332
